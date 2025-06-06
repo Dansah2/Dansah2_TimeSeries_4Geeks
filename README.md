@@ -1,6 +1,10 @@
-# Data Science Project Boilerplate
+# 🛫 Flight Data: Passenger Forecasting System
 
-This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
+This project focuses on forecasting the number of passengers per flight using historical flight data. We use **time series analysis** and an **ARIMA model** to predict future passenger counts.
+
+## 🚀 Objective
+
+Accurate forecasting allows for better planning and optimization of airline resources, routes, and capacity. We'll analyze historical data, detect patterns, assess time series behavior, and use ARIMA to forecast and evaluate future values.
 
 ## Structure
 
