@@ -6,6 +6,14 @@ This project focuses on forecasting the number of passengers per flight using hi
 
 Accurate forecasting allows for better planning and optimization of airline resources, routes, and capacity. We'll analyze historical data, detect patterns, assess time series behavior, and use ARIMA to forecast and evaluate future values.
 
+## 📁 Dataset
+
+📊 Features:
+
+- `year`: Numerical
+- `month`: Categorical
+- `passengers`: Numerical
+
 ## Structure
 
 The project is organized as follows:
